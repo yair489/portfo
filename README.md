@@ -1,7 +1,7 @@
 # portfo my website
 
 <p align="center">
-  <img width="466" alt="Pasted Graphic" src="https://github.com/yair489/portfo/issues/1#issue-2554880339">
+  <img width="466" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/dc1e06d0-0f22-430c-8065-8cb9ca46967e">
 </p>
 
 ## Description
